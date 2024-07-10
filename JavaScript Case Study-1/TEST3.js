@@ -1,5 +1,4 @@
 const fs = require('fs');
-const { userInfo } = require('os');
 const path = require('path');
 
 const fileName = 'example.txt';
